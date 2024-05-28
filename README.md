@@ -14,9 +14,9 @@
 <table width="100%" align="center">
   <tr>
     <td align="center" valign="top" width="20%"><a href="https://github.com/wade3420"><img src="https://avatars.githubusercontent.com/u/68339352?v=4" alt=""/><br /><p><b>안동민</b></p></a></td>
-        <td align="center" valign="top" width="20%"><a href="https://github.com/woobottle"><img src="https://avatars.githubusercontent.com/u/50283326?v=4" alt=""/><br /><p><b>정우병</b></p></a></td>
+        <td align="center" valign="top" width="20%"><a href="https://github.com/woobottle"><img src="https://avatars.githubusercontent.com/u/50283326?v=4" alt=""/><br /><p><b>정우병</b></p></a></td>
     <td align="center" valign="top" width="20%"><a href="https://github.com/synuns"><img src="https://avatars.githubusercontent.com/u/57736547?v=4" alt=""/><br /><p><b>장신원</b></p></a></td>
-    <td align="center" valign="top" width="20%"><a href="https://github.com/jiji-hoon96"><img src="https://avatars.githubusercontent.com/u/94469974?v=4" alt=""/><br /><p><b>이지훈</b></p></a><small></small></td>
+    <td align="center" valign="top" width="20%"><a href="https://github.com/jiji-hoon96"><img src="https://avatars.githubusercontent.com/u/94469974?v=4" alt=""/><br /><p><b>이지훈</b></p></a></td>
   </tr>
 </table>
 
@@ -24,6 +24,7 @@
 
 - 매주 `수요일 10시 반` 한주간 진행한 스터디를 발표합니다.
 - 각 스터디 참여자는 발표 전날까지 n주차 폴더에 발표 자료를 업로드하여 PR을 생성합니다.
+  > 자기 이름 안동민인 경우: 1주차/안동민.md 파일 생성 후 PR
 - 발표 후에는 모든 PR을 close합니다.
 - 총 5번의 스터디를 진행 후에는 모든 내용을 각자 하나의 아티클로 정리합니다.
 
